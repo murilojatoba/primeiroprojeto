@@ -1,0 +1,25 @@
+{
+  "name": "primeiroprojeto",
+  "version": "0.0.1",
+  "homepage": "https://github.com/murilojatoba/primeiroprojeto",
+  "authors": [
+    "murilojatoba <murilojatoba@gmail.com>"
+  ],
+  "description": "Primeiro projeto de exemplo de AngularJS com Bootstrap",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS",
+    "Bootstrap"
+  ],
+  "license": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
