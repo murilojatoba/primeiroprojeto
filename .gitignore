@@ -1,0 +1,3 @@
+#Não versionar a pasta /lib
+/lib
+/lib/*
